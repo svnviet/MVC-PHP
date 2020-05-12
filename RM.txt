@@ -1,0 +1,5 @@
+Anh đổi thông tin server user db ở file connection.php và db.php để tạo db.
+
+DB được tạo ở lần chạy đầu, anh reset page là đầy đủ ạ.
+
+phần fontend được lưu tại foder views a.
